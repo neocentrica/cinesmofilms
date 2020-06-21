@@ -38,4 +38,4 @@ text-align: center;}
 
 
 
-@media screen and (max-width: 600px){main {display: none;} body{grid-template-columns: 100% 0%;}}
+@media screen and (max-width: 600px){main {display: none;} body{grid-template-columns: 100% 0%; text-align: center;}}
