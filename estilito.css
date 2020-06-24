@@ -1,8 +1,8 @@
 *{user-select: none;}
 body { margin: 0 auto;  width: 100%; height: 100%; max-width: 1000px; max-height: 1000px;
     background-color: #FFE4E1; overflow-y:hidden; overflow-x: hidden; cursor: default;
-    display: grid; grid-gap: 10px;
-    grid-template-columns: 30% 70%;
+    display: grid; grid-gap: 2%;
+    grid-template-columns: 29% 69%;
     grid-template-areas: "header main"
                          "nav    main"
                          "footer footer";    
