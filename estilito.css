@@ -39,7 +39,7 @@ text-align: center;}
     #infor{font-size: 24px;}
 }
 @media screen and (min-width: 1920px){
-    body{grid-template-columns: 40% 60%;
+    body{grid-template-columns: 40% 60%;}
     a {font-size: 96px;}
     #infor {font-size: 48px;}
 }
