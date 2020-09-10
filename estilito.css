@@ -14,14 +14,14 @@ grid-area: header; width: 100%;}
 
 
 
-nav, a {font-family: Arial, Helvetica, sans-serif; font-size: 45px; color:black; text-decoration: none;
+nav, a {font-family: Arial, Helvetica, sans-serif; font-size: 60px; color:black; text-decoration: none;
 overflow: hidden;
 display: block;     
 grid-area: nav;
 }
 
 
-#infor { font-size: 20px; user-select: text;}
+#infor { font-size: 30px; user-select: text;}
 
 
 
@@ -34,10 +34,13 @@ footer {grid-area: footer;
 text-align: center;}
 
 @media screen and (max-width: 600px){ 
-body{margin: 0 auto; grid-template-columns: 100% 0%; text-align: center;}
-    }
-@media screen and (min-width: 1281px){
-    a {font-size: 80px;}
-    #infor {font-size: 35px;}
+    body{margin: 0 auto; grid-template-columns: 100% 0%; text-align: center;}
+    a{font-size: 48px;}
+    #infor{font-size: 24px;}
+}
+@media screen and (min-width: 1920px){
+    body{grid-template-columns: 40% 60%;
+    a {font-size: 96px;}
+    #infor {font-size: 48px;}
 }
 
