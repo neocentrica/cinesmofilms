@@ -14,7 +14,7 @@ grid-area: header; width: 100%;}
 
 
 
-nav, a {font-family: Arial, Helvetica, sans-serif; font-size: 50px; color:black; text-decoration: none;
+nav, a {font-family: Arial, Helvetica, sans-serif; font-size: 45px; color:black; text-decoration: none;
 overflow: hidden;
 display: block;     
 grid-area: nav;
@@ -34,7 +34,6 @@ footer {grid-area: footer;
 text-align: center;}
 
 @media screen and (max-width: 600px){ 
-body{margin: 0 auto; grid-template-columns: 100% 0%;}
-    nav{text-align: justify; margin-left: 30%;}
+body{margin: 0 auto; grid-template-columns: 100% 0%; text-align: center;}
     }
 
