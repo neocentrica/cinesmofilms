@@ -1,5 +1,5 @@
 *{user-select: none;}
-body { margin: 0 auto;  margin-left: 5%; width: 95%; height: 100vh; 
+body { margin: 0 auto;  margin-left: 5%; width: 95%;  
     background-color: #FFE4E1; cursor: default;
     display: grid;
     grid-template-columns: 500px auto;
