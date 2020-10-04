@@ -1,5 +1,6 @@
 *{user-select: none;}
-body { margin: 0 auto;  margin-left: 5%; width: 95%;  
+body { margin: 0 auto;  margin-left: 5%; width: 95%; 
+    font-family: Arial, Helvetica, sans-serif; 
     background-color: #FFE4E1; cursor: default;
     display: grid;
     grid-template-columns: 500px auto;
@@ -13,7 +14,7 @@ grid-area: header; width: 100%;}
 
 
 
-nav, a {font-family: Arial, Helvetica, sans-serif; font-size: 60px; color:black; text-decoration: none;
+nav, a {font-size: 60px; color:black; text-decoration: none;
 overflow: hidden;
 display: block;     
 grid-area: nav;
