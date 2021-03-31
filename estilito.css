@@ -1,6 +1,6 @@
 *{user-select: none;}
-body { margin: 0 auto;  text-align: center;
-    background-color: #FFE4E1; cursor: default; grid-template-columns: 500px;
+body { margin: 0 auto; text-align: center;
+    background-color: #FFE4E1; grid-template-columns: 500px;
 }
 
 header img{box-sizing: border-box; padding: 10px; width: 100%;}
