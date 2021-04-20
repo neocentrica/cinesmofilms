@@ -17,7 +17,7 @@ display: block;
 
 
 
-footer a { font-size: 1em; font-family: initial;}
+footer a { font-size: 1em; text-decoration: underline;}
 
 @media screen and (max-width: 900px){ 
     #cf{ width: 100%;}
