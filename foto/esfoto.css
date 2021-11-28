@@ -1,0 +1,26 @@
+*{user-select: none;padding: 0; margin: 0;}
+body {margin: 0 auto; font-family: 'Rubik', sans-serif;
+    background-color: #FCD1C6; cursor: default; text-align: center;
+    display: block;
+}
+
+a {text-decoration: none; color: black;}
+
+
+
+#home { font-size: 1.5em;}
+#current {font-size: 3em;}
+#next  { font-size: 2.5em;}
+
+main {  font-size: 2.5em;
+   }
+
+
+nav {  cursor: default;
+  font-size: 3em;
+}
+
+@media screen and (max-width: 600px)
+{.fot
+{width: 98% ;}
+}
