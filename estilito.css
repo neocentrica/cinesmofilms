@@ -9,7 +9,7 @@ display: block;
 
 button{background-color: #FCD1C6; color: black; border: none; font-family: 'Rubik', sans-serif; font-size: 1.7em;}
 
-#infor { font-size: 1em; user-select: text;}
+#infor { font-size: 1em; user-select: text; display: none;}
 
 footer a { font-size: 1em; text-decoration: underline;}
 
