@@ -11,7 +11,7 @@ a {color: black;}
 button{background-color: #FCD1C6; color: black; border: none; font-family: 'Rubik', sans-serif; font-size: 4em;}
 
 #infor {user-select: text; display: none; font-size: 2em;}
-footer {font-size: 1em;}
+footer {font-size: 0.7em;}
 
 @media screen and (max-width: 428px) {
     img{width: 428px; height: 214px;}
