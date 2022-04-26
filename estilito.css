@@ -3,15 +3,15 @@ body { margin: 0 auto; text-align: center; font-family: 'Rubik', sans-serif;
     background-color: #FCD1C6;
 }   
 
-.pri {font-size: 3em; text-decoration: none; display: block;     
+.pri {font-size: 4em; text-decoration: none; display: block;     
 }
 
 a {color: black;}
 
-button{background-color: #FCD1C6; color: black; border: none; font-family: 'Rubik', sans-serif; font-size: 3em;}
+button{background-color: #FCD1C6; color: black; border: none; font-family: 'Rubik', sans-serif; font-size: 4em;}
 
-#infor {user-select: text; display: none; font-size: 1.5em;}
-footer {font-size: 0.8em;}
+#infor {user-select: text; display: none; font-size: 2em;}
+footer {font-size: 1em;}
 
 @media screen and (max-width: 428px) {
     img{width: 428px; height: 214px;}
