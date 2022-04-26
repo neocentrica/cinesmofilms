@@ -10,7 +10,7 @@ a {color: black;}
 
 button{background-color: #FCD1C6; color: black; border: none; font-family: 'Rubik', sans-serif; font-size: 3em;}
 
-#infor {user-select: text; display: none; font-size: 2em;}
+#infor {user-select: text; display: none; font-size: 1.5em;}
 footer {font-size: 0.7em;}
 
 @media screen and (max-width: 428px) {
