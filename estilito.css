@@ -8,7 +8,7 @@ body { margin: 0 auto; text-align: center; font-family: 'Rubik', sans-serif;
 
 a {color: black;}
 
-button{background-color: #FCD1C6; color: black; border: none; font-family: 'Rubik', sans-serif; font-size: 3em; 
+button{background-color: #FCD1C6; cursor: pointer; color: black; border: none; font-family: 'Rubik', sans-serif; font-size: 3em; 
 }
 
 #infor {user-select: text; display: none; font-size: 1.5em;}
